@@ -11,6 +11,8 @@
 
 :o: try to start with a sentence your wrote about the tech not a quote
 
+OSGi is a standard which focuses on providing universal gateway for the users. It has been widely use as a framework to integrated all the services for a home.   
+
 > "The OSGi Alliance, formerly known as the Open Services Gateway initiative, is an 
 > open standards organization founded in March 1999 that originally specified and 
 > continues to maintain the OSGi standard" [@fa18-523-85-osgi].   
@@ -19,7 +21,7 @@ In 1999, the original name of the organization was *Open Service Gateway initiat
 
 The essence of OSGi is a modular system and a service platform for Java, which could offer a useful model. The functional is not existed in the current system. The function is about operation the applications remotely and could do everything with the applications such as start, stop, update or something else. The APIs could also manage the application life cycle though the protocol which designed for the application.   
 
-Nowadays, OSGi is widely used by business unit in many specific domains. Starting out in set top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms and Robotics, to name a few.   
+OSGi is widely used by business unit in many specific domains. Starting out in set top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms and Robotics, to name a few.   
 
 :o: if its nowadays there must be a different refernce ...
 
